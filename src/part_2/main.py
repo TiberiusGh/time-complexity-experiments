@@ -1,0 +1,7 @@
+from On2_experiments import run_On2_experiments
+from O_nlog_experiments import run_nlogn_experiments
+from special_experiments import run_special_experiments
+
+run_On2_experiments()
+run_nlogn_experiments()
+run_special_experiments()
